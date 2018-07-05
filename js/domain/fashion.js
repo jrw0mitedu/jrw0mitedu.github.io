@@ -6,7 +6,7 @@ var banner = {
     description : 'Lora\s ongoing fashion projects',
     image       : 'img/data/bokeh.jpg',
     linkIsVideo : true,    
-    link        : 'https://www.youtube.com/embed/tIkz4wfev5A'
+    link        : 'img/data/bokeh.jpg'
 };
 
 // the domain videos
