@@ -23,28 +23,28 @@ boxes.push({
 });
 boxes.push({
     title       : 'Staying abroad',
-    subtitle    : 'Walk about maybe',
+    subtitle    : 'Walk about',
     description : '',
     url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
     video       : true,
     thumbnail   : 'images/Fashion/elevator2.jpg'
 });
 boxes.push({
-    title       : 'City at night',
-    subtitle    : 'Drama or not',
+    title       : 'Late night',
+    subtitle    : 'Drama',
     description : '',
     url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
     video       : true,
     thumbnail   : 'images/Fashion/nightLife1.jpg'
 });
 boxes.push({
-    title       : 'City at night',
+    title       : 'City',
     subtitle    : 'Dress for dinner',
     description : '',
     thumbnail   : 'images/Fashion/dinner.png'
 });
 boxes.push({
-    title       : 'City at night',
+    title       : 'Dinner in the City',
     subtitle    : 'walking to dinner',
     description : '',
     thumbnail   : 'images/Fashion/red.jpg'
@@ -58,8 +58,8 @@ boxes.push({
     thumbnail   : 'images/Fashion/dinner1.jpg'
 });
 boxes.push({
-    title       : 'Fashion',
-    subtitle    : 'Special occasion',
+    title       : 'Special occasion',
+    subtitle    : 'Making a statement',
     description : '',
     thumbnail   : 'images/Fashion/HK1.jpg'    
 });
