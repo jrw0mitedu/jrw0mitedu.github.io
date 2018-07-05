@@ -13,7 +13,7 @@ var banner = {
 var features = [];
 features.push({
     title       : 'Lora',
-    description : '<div><p>Larisa has an MBA from Middlesex University and honed her design skills in Russia. She was responsible for the design of a cinema complex in Ufa. </p></div>',
+    description : '<div><p>Larisa honed her design skills in Russia and UK. She ran a nightclub in Russia and studied in London for her MBA. She is organized and experienced. </p></div>',
     image       : 'img/people/lora4.png'
 });
 
