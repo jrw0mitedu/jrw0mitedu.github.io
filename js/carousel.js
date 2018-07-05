@@ -24,14 +24,10 @@ carousel.push({
     carousel.push({
         title       : 'Shopping for your new image',
         subtitle    : 'This is typically a full day in London to get you started',
-        description : "Lora has built her own image. She will show you how to build yours. Lora will tell you what you should and shouldn't buy. She will shop to your budget. She once paid just one pound for a pair of shoes.<div><a href='simulation.html' class='badge badge-info'>More Information ...</a></div>",
+        description : "Lora has her own unique image. She will show you how to build yours. Lora will tell you what you should and shouldn't buy. She will shop to your budget. She once paid just one pound for a pair of shoes.<div><a href='simulation.html' class='badge badge-info'>More Information ...</a></div>",
         video       : '',
         image       : 'images/Fashion/travel.jpg'
     });
-
-
-    
-
 
     carousel.push({
         title       : 'Health and Wellness',
