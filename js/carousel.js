@@ -4,9 +4,9 @@
 
 
     carousel.push({
-        title       : 'Larisa Vorontsova Design',
-        subtitle    : 'Design and Fashion Services',
-        description : 'Oxford, London and St. Petersburg',
+        title       : 'Larisa Vorontsova',
+        subtitle    : 'Fashion Consulting Services',
+        description : 'London, Oxford and St. Petersburg',
         video       : '',
         image       : 'images/restaurant/lora1.jpg',
         isactive    : true        
@@ -15,20 +15,20 @@
 
 
     carousel.push({
-        title       : 'Interior Design',
-        subtitle    : 'Living design',
-        description : "Lora's design skills range from a single room up to a night club and cinema<div><a href='simulation.html' class='badge badge-info'>More Information ...</a></div>",
+        title       : 'Your Image',
+        subtitle    : 'Building your own image',
+        description : "Lora has built her own image. She will show you how to build yours.<div><a href='simulation.html' class='badge badge-info'>More Information ...</a></div>",
         video       : '',
-        image       : 'images/hall.jpg'
+        image       : 'images/travel.jpg'
     });
 
 
     carousel.push({
-        title       : 'Living livingRoom',
+        title       : 'Building your wardrobe',
         subtitle    : '',
-        description : 'drama in the furniture',
+        description : 'Develop your style and live it',
         video       : '',
-        image       : 'images/livingRoom.jpg'
+        image       : 'images/fireplace.jpg'
     });
 
     carousel.push({
