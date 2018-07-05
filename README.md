@@ -1,2 +1,2 @@
 # gdc
-Geospatial Data Center
+Digital Steam Inc.

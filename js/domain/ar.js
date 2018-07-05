@@ -6,7 +6,7 @@ var banner = {
     description : 'The Simulation and Impact Analysis Framework uses serious game environments to generate Critical Infrastructures failures encountered from cybersecurity attacks. Decision makers can use the simulator to understand and predicting the consequences of the deployment of new network devices, hardware conﬁgurations or software applications in an Operations Technology (OT) global infrastructure, without affecting live operations.',
     image       : 'img/data/bokeh.jpg',
     linkIsVideo : true,    
-    link        : 'https://www.youtube.com/embed/RP7bhZ4Xekc'
+    link        : 'img/data/bokeh.jpg'
 };
 
 
