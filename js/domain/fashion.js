@@ -2,7 +2,7 @@
 // ----------------------------------
 
 var banner = {
-    title       : 'Lora loe Fashion',
+    title       : 'Lora Fashion',
     description : 'Lora\s ongoing fashion projects',
     image       : 'img/data/bokeh.jpg',
     linkIsVideo : true,    
@@ -22,24 +22,24 @@ boxes.push({
     thumbnail   : 'images/lora2.png'
 });
 boxes.push({
-    title       : 'Safari Fashion',
-    subtitle    : 'Situational Awareness ',
+    title       : 'City girl',
+    subtitle    : 'Dress for work',
     description : '',
     url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
     video       : true,
     thumbnail   : 'images/citygirl.png'
 });
 boxes.push({
-    title       : 'Saffron Fashion',
-    subtitle    : 'Applied Computation Fashion',
-    description : 'SAFFRON is situational awareness.',
+    title       : 'Going to the dance',
+    subtitle    : 'Fashion',
+    description : 'Situational awareness.',
     url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
     video       : true,
     thumbnail   : 'images/lora4.png'    
 });
 boxes.push({
     title       : 'Prime Fashion',
-    subtitle    : 'Applied Fashion',
+    subtitle    : 'Special occasions',
     description : ' is situational awareness.',
     url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
     video       : true,
