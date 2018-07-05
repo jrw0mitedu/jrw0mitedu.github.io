@@ -31,6 +31,8 @@
         image       : 'images/Fashion/fireplace.jpg'
     });
 
+
+
     carousel.push({
         title       : 'Health and Wellness',
         subtitle    : 'Understand your body and its needs',
@@ -39,15 +41,13 @@
         image       : 'images/Fashion/fitness.jpg'
     });
 
-
     carousel.push({
         title       : 'Augmented Reality',
         subtitle    : 'Lora has teamed with an MIT Professor to use Augmented Reality to see your new self',
-        description : 'Coming soon' <div><a href="ar.html" class="badge badge-info">More Information ...</a></div>',
+        description : 'Coming soon... <div><a href="ar.html" class="badge badge-info">More Information ...</a></div>',
         video       : '',
         image       : 'images/ar_06_low.jpg'
     });
-
     carousel.push({
         title       : 'Team',
         subtitle    : "Meet Lora's team",
