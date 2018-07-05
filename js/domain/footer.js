@@ -8,7 +8,7 @@ function buildFooter(){
     html += '<div class="container">';
     // html += '   <p class="float-right"><a href="#">Back to top</a></p>';
     // html += '   <p>&copy; 2017 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>';
-    html += '	<p class="text-muted"> &copy; 2017, 2018 Lora Vorontsova</p>';
+    html += '	<p class="text-muted"> &copy; 2017, 2018 DigitalSteam Inc</p>';
     html += '</div>';    
     html += '</footer>';
     return html;

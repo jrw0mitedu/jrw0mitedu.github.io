@@ -4,9 +4,9 @@
 
 
     carousel.push({
-        title       : 'Larisa Vorontsova',
-        subtitle    : 'Fashion Consulting Services',
-        description : 'London, Oxford and St. Petersburg',
+        title       : 'Lora Fashion Consulting',
+        subtitle    : 'London and Oxford',
+        description : '',
         video       : '',
         image       : 'images/restaurant/lora1.jpg',
         isactive    : true        
