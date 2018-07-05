@@ -16,7 +16,7 @@ var boxes = [];
 boxes.push({
     title       : 'Going to the dance',
     subtitle    : 'Formal dance',
-    description : 'Situational awareness.',
+    description : '',
     url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
     video       : true,
     thumbnail   : 'images/Fashion/lora2.png'    
@@ -50,12 +50,12 @@ boxes.push({
     thumbnail   : 'images/Fashion/red.jpg'
 });
 boxes.push({
-    title       : 'Staying in or going out',
-    subtitle    : 'Dress for play',
+    title       : 'Dinner in hotel',
+    subtitle    : '',
     description : '',
     url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
     video       : true,
-    thumbnail   : 'images/Fashion/city.jpg'
+    thumbnail   : 'images/Fashion/dinner1.jpg'
 });
 boxes.push({
     title       : 'Fashion',
@@ -67,8 +67,6 @@ boxes.push({
     title       : 'Summer Dress',
     subtitle    : 'Being casual',
     description : '',
-    url         : 'https://www.youtube.com/embed/tIkz4wfev5A',
-    video       : true,
     thumbnail   : 'images/Fashion/summer.jpg'
 });
 boxes.push({
