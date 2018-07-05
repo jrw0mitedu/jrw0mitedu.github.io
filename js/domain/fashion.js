@@ -14,42 +14,36 @@ var banner = {
 
 var boxes = [];
 boxes.push({
-    title       : 'Summer Dress',
-    subtitle    : 'Being casual',
-    description : '',
-    url         : 'https://www.youtube.com/embed/tIkz4wfev5A',
-    video       : true,
-    thumbnail   : 'images/Fashion/summer.jpg'
-});
-boxes.push({
-    title       : 'City at night',
-    subtitle    : 'Dress for play',
-    description : '',
-    url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
-    video       : true,
-    thumbnail   : 'images/Fashion/nightLife1.jpg'
-});
-boxes.push({
     title       : 'Going to the dance',
-    subtitle    : 'Fashion',
+    subtitle    : 'Formal dance',
     description : 'Situational awareness.',
     url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
     video       : true,
     thumbnail   : 'images/Fashion/lora2.png'    
 });
 boxes.push({
-    title       : 'Flying',
-    subtitle    : 'Dress to fly',
-    description : 'Situational awareness.',
-    url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
+    title       : 'Staying abroad',
+    subtitle    : 'Walk about maybe',
+    description : '',
+    url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
     video       : true,
-    thumbnail   : 'images/Fashion/travel.jpg'    
+    thumbnail   : 'images/Fashion/elevator2.jpg'
 });
 boxes.push({
     title       : 'City at night',
-    subtitle    : 'Dress for play',
+    subtitle    : 'Drama or not',
     description : '',
+    url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
+    video       : true,
     thumbnail   : 'images/Fashion/nightLife1.jpg'
+});
+
+
+boxes.push({
+    title       : 'City at night',
+    subtitle    : 'Dress for dinner',
+    description : '',
+    thumbnail   : 'images/Fashion/dinner.png'
 });
 boxes.push({
     title       : 'City at night',
@@ -69,4 +63,26 @@ boxes.push({
     title       : 'Fashion',
     subtitle    : 'Special occasions',
     thumbnail   : 'images/HK1.jpg'    
+});
+boxes.push({
+    title       : 'Summer Dress',
+    subtitle    : 'Being casual',
+    description : '',
+    url         : 'https://www.youtube.com/embed/tIkz4wfev5A',
+    video       : true,
+    thumbnail   : 'images/Fashion/summer.jpg'
+});
+boxes.push({
+    title       : 'Flying',
+    subtitle    : 'Dress to fly',
+    description : 'Situational awareness.',
+    url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
+    video       : true,
+    thumbnail   : 'images/Fashion/travel.jpg'    
+});
+boxes.push({
+    title       : 'Weekend at home',
+    subtitle    : 'relax',
+    description : '',
+    thumbnail   : 'images/Fashion/house.jpg'
 });
