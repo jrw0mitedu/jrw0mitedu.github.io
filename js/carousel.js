@@ -48,6 +48,7 @@
         video       : '',
         image       : 'images/ar_06_low.jpg'
     });
+    
     carousel.push({
         title       : 'Team',
         subtitle    : "Meet Lora's team",
