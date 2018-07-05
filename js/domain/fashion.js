@@ -61,8 +61,9 @@ boxes.push({
 });
 boxes.push({
     title       : 'Fashion',
-    subtitle    : 'Special occasions',
-    thumbnail   : 'images/HK1.jpg'    
+    subtitle    : 'Special occasion',
+    description : '',
+    thumbnail   : 'images/Fashion/HK1.jpg'    
 });
 boxes.push({
     title       : 'Summer Dress',
