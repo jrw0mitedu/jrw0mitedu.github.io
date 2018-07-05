@@ -79,13 +79,13 @@ boxes.push({
 });
 boxes.push({
     title       : 'Weekend at home',
-    subtitle    : 'relax',
+    subtitle    : 'Easy to wear',
     description : '',
     thumbnail   : 'images/Fashion/house.jpg'
 });
 boxes.push({
     title       : 'Evening at home',
-    subtitle    : 'relax',
+    subtitle    : 'With wine perhaps',
     description : '',
     thumbnail   : 'images/Fashion/fireplace.jpg'
 });
