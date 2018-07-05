@@ -37,8 +37,6 @@ boxes.push({
     video       : true,
     thumbnail   : 'images/Fashion/nightLife1.jpg'
 });
-
-
 boxes.push({
     title       : 'City at night',
     subtitle    : 'Dress for dinner',
@@ -86,4 +84,10 @@ boxes.push({
     subtitle    : 'relax',
     description : '',
     thumbnail   : 'images/Fashion/house.jpg'
+});
+boxes.push({
+    title       : 'Evening at home',
+    subtitle    : 'relax',
+    description : '',
+    thumbnail   : 'images/Fashion/fireplace.jpg'
 });
