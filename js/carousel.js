@@ -35,7 +35,7 @@
 
     carousel.push({
         title       : 'Health and Wellness',
-        subtitle    : 'Understand your body and its needs',
+        subtitle    : 'Understanding your body and its needs',
         description : 'We work with you to develop a wellness program that fits into your life but also changes your own self image.<div><a href="geospatial.html" class="badge badge-info">More Information ...</a></div>',
         video       : '',
         image       : 'images/Fashion/fitness.jpg'
@@ -48,7 +48,7 @@
         video       : '',
         image       : 'images/ar_06_low.jpg'
     });
-    
+
     carousel.push({
         title       : 'Team',
         subtitle    : "Meet Lora's team",
