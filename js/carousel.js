@@ -19,7 +19,7 @@
         subtitle    : 'Building your own image',
         description : "Lora has built her own image. She will show you how to build yours.<div><a href='simulation.html' class='badge badge-info'>More Information ...</a></div>",
         video       : '',
-        image       : 'images/travel.jpg'
+        image       : 'images/fashion/travel.jpg'
     });
 
 
@@ -28,7 +28,7 @@
         subtitle    : '',
         description : 'Develop your style and live it',
         video       : '',
-        image       : 'images/fireplace.jpg'
+        image       : 'images/fashion/fireplace.jpg'
     });
 
     carousel.push({
