@@ -57,7 +57,7 @@ carousel.push({
 
 
     var html = '';
-    html += '<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000">';
+    html += '<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">';
     html += '   <div class="carousel-inner" role="listbox">';
 
     // loop through carousel items, generate html, add to html variable
