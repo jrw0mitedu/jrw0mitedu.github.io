@@ -33,7 +33,7 @@
 
     carousel.push({
         title       : 'Augmented Reality',
-        subtitle    : 'Lora has teamed with an MIT Professor to integrate a Virtual Layer on the Physical World',
+        subtitle    : 'Lora has teamed with an MIT Professor to use Augmented Reality to see your new self',
         description : 'The ICS <div><a href="ar.html" class="badge badge-info">More Information ...</a></div>',
         video       : '',
         image       : 'images/ar_06_low.jpg'
