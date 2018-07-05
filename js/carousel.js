@@ -13,30 +13,30 @@
     });
 
 
+carousel.push({
+        title       : 'Building your wardrobe',
+        subtitle    : 'Keeping the good and moving out the not so good',
+        description : 'A typical fashion consultation starts with a half to full day reviewing your wardrobe and developing a plan for building a new one to fit your image.',
+        video       : '',
+        image       : 'images/Fashion/fireplace.jpg'
+    });
 
     carousel.push({
-        title       : 'Your Image',
-        subtitle    : 'Building your own image',
-        description : "Lora has built her own image. She will show you how to build yours.<div><a href='simulation.html' class='badge badge-info'>More Information ...</a></div>",
+        title       : 'Shopping for your new image',
+        subtitle    : 'This is typically a full day in London to get you started',
+        description : "Lora has built her own image. She will show you how to build yours. Lora will tell you what you should and shouldn't buy. She will shop to your budget. She once paid just one pound for a pair of shoes.<div><a href='simulation.html' class='badge badge-info'>More Information ...</a></div>",
         video       : '',
         image       : 'images/Fashion/travel.jpg'
     });
 
 
-    carousel.push({
-        title       : 'Building your wardrobe',
-        subtitle    : '',
-        description : 'Develop your style and live it',
-        video       : '',
-        image       : 'images/Fashion/fireplace.jpg'
-    });
-
+    
 
 
     carousel.push({
         title       : 'Health and Wellness',
-        subtitle    : 'Understanding your body and its needs',
-        description : 'We work with you to develop a wellness program that fits into your life but also changes your own self image.<div><a href="geospatial.html" class="badge badge-info">More Information ...</a></div>',
+        subtitle    : 'Understanding your body and its needs and how it influences your image and your self esteem.',
+        description : 'Lora will work with you to develop a wellness program that fits into your schedule. She was once one of the top body-builders in Russia. She knows how to design a program that will change you body and your self-control.<div><a href="geospatial.html" class="badge badge-info">More Information ...</a></div>',
         video       : '',
         image       : 'images/Fashion/fitness.jpg'
     });
