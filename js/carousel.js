@@ -38,7 +38,7 @@ carousel.push({
     });
     carousel.push({
         title       : 'Cost',
-        subtitle    : 'Planning the Wardrobe (half day) £350<br> Full day Shopping £350',
+        subtitle    : 'Planning the Wardrobe (half day) £350<br> Full day Shopping £600',
         description : 'Lora will guide you to meet your goals and stay within your budget... <div><a href="ar.html" class="badge badge-info">More Information ...</a></div>',
         video       : '',
         image       : 'images/Fashion/yourImage.jpg'
