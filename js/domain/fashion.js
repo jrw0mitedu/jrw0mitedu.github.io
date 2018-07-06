@@ -4,9 +4,9 @@
 var banner = {
     title       : 'Lora Fashion',
     description : 'Lora\s own fashion and image',
-    image       : 'img/data/bokeh.jpg',
+    image       : 'images/Fashion/fitness.jpg',
     linkIsVideo : true,    
-    link        : 'img/data/bokeh.jpg'
+    link        : 'images/Fashion/fitness.jpg'
 };
 
 // the domain videos

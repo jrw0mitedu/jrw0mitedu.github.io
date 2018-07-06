@@ -2,9 +2,9 @@
 // ----------------------------------
 
 var banner = {
-    title       : 'Media',
-    description : 'Video from Lora',
-    image       : 'img/data/bokeh.jpg'
+    title       : 'Wellness',
+    description : 'Lora was one of the top body-builders in Russia. She understands what it takes to shape your body and keep it health. She can develop a plan with you that is realistic and will get the results you want.',
+    image       : 'images/Fashion/fitness.jpg'
 };
 
 
@@ -12,7 +12,7 @@ var banner = {
 // ----------------------------------
 // before deploying restric URL access
 // https://console.developers.google.com/apis/credentials/wizard?api=youtube.googleapis.com&project=api-project-837099048967
-var url = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCro0hRiT9K7UqIYTQHCf30g&maxResults=10&order=date&type=video&key=AIzaSyCUDPY8zV5jfjqiVDwTMUUDMn7jrHi8nQo';
+var url = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCepVy23t8l-CEaASZzfo9Jg&maxResults=10&order=date&type=video&key=AIzaSyCUDPY8zV5jfjqiVDwTMUUDMn7jrHi8nQo';
 var request = new XMLHttpRequest();
 request.open('GET', url, false);  // `false` makes the request synchronous
 request.send(null);
@@ -20,10 +20,10 @@ request.send(null);
 var boxes = [];
 
 boxes.push({
-    title       : 'Fashion in London',
+    title       : 'Fitness and Wellness',
     subtitle    : '',
-    description : 'fashion plus',
-    thumbnail   : 'images/videos/ics.jpg'    
+    description : '',
+    thumbnail   : 'images/Fashion/fitness.jpg'    
 });
 
 

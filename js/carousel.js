@@ -37,18 +37,11 @@ carousel.push({
         image       : 'images/Fashion/fitness.jpg'
     });
     carousel.push({
-        title       : 'Cost',
-        subtitle    : 'Planning the Wardrobe (half day) £350<br> Full day Shopping £600',
+        title       : 'Cost of 2 Step Plan',
+        subtitle    : 'Step 1 -Planning the Wardrobe (half day) £350<br>Step 2 - Full day Shopping £600',
         description : 'Lora will guide you to meet your goals and stay within your budget...<br>Your new image awaits you. <div><a href="ar.html" class="badge badge-info">More Information ...</a></div>',
         video       : '',
         image       : 'images/Fashion/yourImage.jpg'
-    });
-    carousel.push({
-        title       : 'Augmented Reality',
-        subtitle    : 'Lora has teamed with an MIT Professor to use Augmented Reality to see your new self',
-        description : 'Coming soon... <div><a href="ar.html" class="badge badge-info">More Information ...</a></div>',
-        video       : '',
-        image       : 'images/ar_06_low.jpg'
     });
 
     carousel.push({
