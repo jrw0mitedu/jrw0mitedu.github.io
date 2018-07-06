@@ -10,7 +10,7 @@ gdc.navigation_links += '        <li class="nav-item">';
 gdc.navigation_links += '          <a class="nav-link" href="interiorDesign.html">Interior Design</a>';
 gdc.navigation_links += '        </li>';
 gdc.navigation_links += '        <li class="nav-item">';
-gdc.navigation_links += '          <a class="nav-link" href="costs.html">Costs</a>';
+gdc.navigation_links += '          <a class="nav-link" href="costs.html">Costs/Contact</a>';
 gdc.navigation_links += '        </li>';
 gdc.navigation_links += '        <li class="nav-item">';
 gdc.navigation_links += '          <a class="nav-link" href="media.html">Media</a>';

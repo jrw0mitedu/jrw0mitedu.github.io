@@ -2,8 +2,9 @@
 // ----------------------------------
 
 var banner = {
-    title       : 'Initial Recommendation',
-    description : "Wardrobe review and plann (half day) £350<br> Full day shopping in London or city of your choice £600 <br> Lora will help you rationalise your wardrobe and develop a plan to fill the missing spaces. Then we recommend a day in London to shop. Lora will guide you so you'll meet your goals and stay within your budget...<br> If you want additional consults on fashion or on fitness and well-being then Lora is available. <br> Rate per hour £120<br> ",
+    title       : 'Initial Recommendation ',
+    subtitle    : '',
+    description : "Wardrobe review and plan (half day) £350<br> Full day shopping in London or city of your choice £600 <br> Lora will help you rationalise your wardrobe and develop a plan to fill the missing spaces. Then we recommend a day shopping in London. Lora will guide you so you'll meet your goals and stay within your budget...<br> If you want additional consults on fashion or on fitness and well-being then Lora is available. <br> Rate per hour £120<br>Contact: <h2> tel. 799 080 8003, larisa.vorontsofa@gmail.com</h2>",
     image       : 'images/london.jpg',
 };
 
