@@ -2,8 +2,8 @@
 // ----------------------------------
 
 var banner = {
-    title       : 'Lora Fashion',
-    description : "Lora's own fashion and image",
+    title       : 'Lora Fashion - 2 Step Program',
+    description : "Step 1 - Wardrobe review and planning (half day)<br> Step 2 - Full day shopping in London or city of your choice <br> Lora will help you rationalise your wardrobe and develop a plan to fill the missing spaces. Then we recommend a day shopping in London. Lora will guide you so you'll meet your goals and stay within your budget..",
     image       : 'images/Fashion/fitness.jpg',
     linkIsVideo : true,    
     link        : 'images/Fashion/fitness.jpg'
