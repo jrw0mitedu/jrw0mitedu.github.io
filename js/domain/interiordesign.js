@@ -2,7 +2,7 @@
 // ----------------------------------
 
 var banner = {
-    title       : 'Lora\s Interior Design',
+    title       : 'Lora Interior Design',
     description : 'Lora in interior design from single rooms to a whole restaurant or hotel',
     image       : 'img/data/bokeh.jpg',
     linkIsVideo : true,    
