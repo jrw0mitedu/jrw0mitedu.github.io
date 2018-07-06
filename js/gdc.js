@@ -1,9 +1,6 @@
 var gdc = {};
 gdc.navigation_links = '';
 gdc.navigation_links += '        <li class="nav-item">';
-gdc.navigation_links += '          <a class="nav-link" href="index.html">Home</a>';
-gdc.navigation_links += '        </li>';
-gdc.navigation_links += '        <li class="nav-item">';
 gdc.navigation_links += '          <a class="nav-link" href="fashion.html">Fashion</a>';
 gdc.navigation_links += '        </li>';
 gdc.navigation_links += '        <li class="nav-item">';
