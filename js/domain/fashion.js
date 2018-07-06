@@ -3,7 +3,7 @@
 
 var banner = {
     title       : 'Lora Fashion',
-    description : 'Lora\s own fashion and image',
+    description : "Lora's own fashion and image",
     image       : 'images/Fashion/fitness.jpg',
     linkIsVideo : true,    
     link        : 'images/Fashion/fitness.jpg'
