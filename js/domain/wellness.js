@@ -12,7 +12,7 @@ var banner = {
 // ----------------------------------
 // before deploying restric URL access
 // https://console.developers.google.com/apis/credentials/wizard?api=youtube.googleapis.com&project=api-project-837099048967
-var url = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCepVy23t8l-CEaASZzfo9Jg&maxResults=10&order=date&type=video&key=AIzaSyCUDPY8zV5jfjqiVDwTMUUDMn7jrHi8nQo';
+var url = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCDMFLzLWCPZHxuelUGBnORQ&maxResults=10&order=date&type=video&key=AIzaSyCUDPY8zV5jfjqiVDwTMUUDMn7jrHi8nQo';
 var request = new XMLHttpRequest();
 request.open('GET', url, false);  // `false` makes the request synchronous
 request.send(null);
