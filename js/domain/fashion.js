@@ -19,7 +19,7 @@ boxes.push({
     description : '',
     url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
     video       : true,
-    thumbnail   : 'images/Fashion/lora7.JPG'    
+    thumbnail   : 'images/Fashion/lora8.jpg'    
 });
 boxes.push({
     title       : 'Staying abroad',
