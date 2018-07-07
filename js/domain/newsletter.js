@@ -25,7 +25,12 @@ boxes.push({
     description : '',
     thumbnail   : 'images/Fashion/latest1.jpg'    
 });
-
+boxes.push({
+    title       : 'Fun in blue',
+    subtitle    : '',
+    description : '',
+    thumbnail   : 'images/Fashion/blue1.jpg'    
+});
 
 
 // videos from youtube

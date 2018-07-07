@@ -14,12 +14,12 @@ var banner = {
 
 var boxes = [];
 boxes.push({
-    title       : 'Dance Dress',
+    title       : 'Dance',
     subtitle    : '',
     description : '',
     url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
     video       : true,
-    thumbnail   : 'images/Fashion/lora4.jpg'    
+    thumbnail   : 'images/Fashion/lora7.jpg'    
 });
 boxes.push({
     title       : 'Staying abroad',
@@ -83,6 +83,15 @@ boxes.push({
     description : '',
     thumbnail   : 'images/Fashion/house.jpg'
 });
+boxes.push({
+    title       : 'Relaxing',
+    subtitle    : '',
+    description : '',
+    url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
+    video       : true,
+    thumbnail   : 'images/Fashion/lean1.jpg'
+});
+
 boxes.push({
     title       : 'Fashion show',
     subtitle    : '',
