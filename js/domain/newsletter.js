@@ -23,7 +23,7 @@ boxes.push({
     title       : 'Fashion',
     subtitle    : '',
     description : '',
-    thumbnail   : 'images/Fashion/latest1.jpg'    
+    thumbnail   : 'images/Fashion/latest2.jpg'    
 });
 boxes.push({
     title       : 'Fun in blue',
