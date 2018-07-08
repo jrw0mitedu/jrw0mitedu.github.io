@@ -8,7 +8,7 @@
         subtitle    : 'London and Oxford',
         description : '',
         video       : '',
-        image       : 'images/restaurant/lora1.jpg',
+        image       : 'images/Fashion/cover1.jpg',
         isactive    : true        
     });
 
