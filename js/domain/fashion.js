@@ -22,7 +22,7 @@ boxes.push({
     thumbnail   : 'images/Fashion/lora8.jpg'    
 });
 boxes.push({
-    title       : 'Staying abroad',
+    title       : 'Abroad',
     subtitle    : '',
     description : '',
     url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
