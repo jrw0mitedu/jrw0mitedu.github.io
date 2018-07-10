@@ -3,7 +3,7 @@
 
 var banner = {
     title       : 'Wellness',
-    description : 'Lora was one of the top body-builders in Russia. She understands what it takes to shape your body and keep it health. She can develop a plan with you that is realistic and will get the results you want.',
+    description : 'Lora was one of the top body-builders in Russia. She understands what it takes to shape your body and keep it healthy. She can develop a plan with you that is realistic and will get the results you want.',
     image       : 'images/Fashion/fitness.jpg'
 };
 
