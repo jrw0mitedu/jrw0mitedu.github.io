@@ -44,14 +44,6 @@ carousel.push({
         image       : 'images/Fashion/yourImage.jpg'
     });
 
-    carousel.push({
-        title       : 'Team',
-        subtitle    : "Meet Lora's team",
-        description : 'We are always looking for fashion designers with specialist skills<div><a href="team.html" class="badge badge-info">More Information ...</a></div>',
-        video       : '',
-        image       : 'images/team_17_low.jpg'
-    });
-
 
 
 
