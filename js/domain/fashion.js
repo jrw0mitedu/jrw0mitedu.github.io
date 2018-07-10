@@ -63,7 +63,7 @@ boxes.push({
     thumbnail   : 'images/Fashion/HK1.jpg'    
 });
 boxes.push({
-    title       : 'Flying',
+    title       : 'Flying in winter',
     subtitle    : '',
     description : '',
     url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
