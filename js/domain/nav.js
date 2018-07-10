@@ -20,7 +20,7 @@ function navigation(){
     return html;
 }
 var html = navigation();
-document.getElementById('domainNav').innerHTML = html;    
+document.getElementById('headernavbar').innerHTML = html;    
 
   
 })();
