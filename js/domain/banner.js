@@ -16,13 +16,13 @@ function buildBanner(banner){
     html += '    <p>' + banner.description + '</p>';
 
     // if link is provided, code block adds video link or simple link
-    if (banner.linkIsVideo){
+    /*if (banner.linkIsVideo){
         html += '    <p><a data-fancybox class="btn btn-primary btn-lg" href="' + banner.link + '" role="button">Learn more &raquo;</a></p>';                
     }
     else if (banner.link){
         html += '    <p><a class="btn btn-primary btn-lg" href="' + banner.link + '" role="button">Learn more &raquo;</a></p>';                
     }
-
+    */
     html += '  </div>';
     html += '</div>';
     return html;    
