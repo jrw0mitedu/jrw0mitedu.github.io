@@ -19,6 +19,23 @@ request.send(null);
 
 var boxes = [];
 
+
+
+// videos from youtube
+if (request.status === 200) {
+    var youtube = JSON.parse(request.responseText);
+    youtube.items.forEach(function(video){
+         boxes.push({
+            title       : video.snippet.title,
+            subtitle    : '',
+            description : '',
+            url         : 'https://www.youtube.com/embed/' + video.id.videoId,
+            video       : true,
+            thumbnail   : video.snippet.thumbnails.medium.url
+        });
+
+    });
+}
 boxes.push({
     title       : 'Fashion',
     subtitle    : '',
@@ -32,22 +49,3 @@ boxes.push({
     thumbnail   : 'images/Fashion/blue1.jpg'    
 });
 
-
-// videos from youtube
-if (request.status === 200) {
-    console.log(request.responseText);
-    var youtube = JSON.parse(request.responseText);
-    youtube.items.forEach(function(video){
-        console.log('video.id.videoId: ' + video.id.videoId);
-        console.log('video.snippet.title: ' + video.snippet.title);
-        boxes.push({
-            title       : video.snippet.title,
-            subtitle    : '',
-            description : '',
-            url         : 'https://www.youtube.com/embed/' + video.id.videoId,
-            video       : true,
-            thumbnail   : video.snippet.thumbnails.medium.url
-        });
-
-    });
-}

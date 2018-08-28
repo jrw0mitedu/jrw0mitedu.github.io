@@ -13,7 +13,8 @@ function buildFooter(){
     html += '</footer>';
     return html;
 }
+/*
 var html = buildFooter();
 document.getElementById('domainFooter').innerHTML = html;
-
+*/
 })();

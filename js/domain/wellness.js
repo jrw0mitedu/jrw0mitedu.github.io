@@ -30,12 +30,9 @@ boxes.push({
 
 // videos from youtube
 if (request.status === 200) {
-    console.log(request.responseText);
     var youtube = JSON.parse(request.responseText);
     youtube.items.forEach(function(video){
-        console.log('video.id.videoId: ' + video.id.videoId);
-        console.log('video.snippet.title: ' + video.snippet.title);
-        boxes.push({
+         boxes.push({
             title       : video.snippet.title,
             subtitle    : '',
             description : '',

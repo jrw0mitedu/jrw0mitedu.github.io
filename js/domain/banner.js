@@ -27,9 +27,10 @@ function buildBanner(banner){
     html += '</div>';
     return html;    
 }
+/*
 var html = buildBanner(banner);
 document.getElementById('banner').innerHTML = html;    
- 
+ */
 })();
 
 
