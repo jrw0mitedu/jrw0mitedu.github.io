@@ -24,7 +24,7 @@ carousel.push({
     carousel.push({
         title       : 'Shopping for your new image',
         subtitle    : 'This is typically a full day in London to get you started',
-        description : "Lora has her own unique image. She will show you how to build yours. Lora will tell you what you should and shouldn't buy. She will shop to your budget. She once paid just one pound for a pair of shoes.<div><a href='simulation.html' class='badge badge-info'>More Information ...</a></div>",
+        description : "Lora has her own unique image. She will show you how to build yours. Lora will tell you what you should and shouldn't buy. She will shop to your budget.",
         video       : '',
         image       : 'images/Fashion/travel.jpg'
     });
@@ -32,14 +32,14 @@ carousel.push({
     carousel.push({
         title       : 'Health and Wellness',
         subtitle    : 'Understanding your body and its needs and how it influences your image and your self esteem.',
-        description : 'Lora will work with you to develop a wellness program that fits into your schedule. She was once one of the top body-builders in Russia. She knows how to design a program that will change you body and your self-control.<div><a href="geospatial.html" class="badge badge-info">More Information ...</a></div>',
+        description : 'Lora will work with you to develop a wellness program that fits into your schedule. She was once one of the top body-builders in Russia. She knows how to design a program that will change you body and your self-control.',
         video       : '',
         image       : 'images/Fashion/fitness.jpg'
     });
     carousel.push({
         title       : 'Cost of 2 Step Plan',
         subtitle    : 'Step 1 -Planning the Wardrobe (half day) £350<br>Step 2 - Full day Shopping £600',
-        description : 'Lora will guide you to meet your goals and stay within your budget...<br>Your new image awaits you. <div><a href="ar.html" class="badge badge-info">More Information ...</a></div>',
+        description : 'Lora will guide you to meet your goals and stay within your budget...<br>Your new image awaits you.',
         video       : '',
         image       : 'images/Fashion/yourImage.jpg'
     });
