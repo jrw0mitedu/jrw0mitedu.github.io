@@ -1,2 +1,0 @@
-# gdc
-Digital Steam Inc.
