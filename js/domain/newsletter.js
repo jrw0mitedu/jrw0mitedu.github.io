@@ -20,7 +20,7 @@ request.send(null);
 var boxes = [];
 
 
-
+/* Take out videos
 // videos from youtube
 if (request.status === 200) {
     var youtube = JSON.parse(request.responseText);
@@ -36,6 +36,7 @@ if (request.status === 200) {
 
     });
 }
+*/
 boxes.push({
     title       : 'Fashion',
     subtitle    : '',

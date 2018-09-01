@@ -29,6 +29,7 @@ boxes.push({
 
 
 // videos from youtube
+/*
 if (request.status === 200) {
     var youtube = JSON.parse(request.responseText);
     youtube.items.forEach(function(video){
@@ -43,3 +44,4 @@ if (request.status === 200) {
 
     });
 }
+*/

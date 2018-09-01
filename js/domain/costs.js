@@ -12,7 +12,7 @@ var banner = {
 // ----------------------------------
 
 var boxes = [];
-
+/* Take Out Images
 boxes.push({
     title       : 'Anytime',
     subtitle    : '',
@@ -61,3 +61,4 @@ boxes.push({
     video       : false,
     thumbnail   : 'images/Fashion/shapely4.jpg'
 });
+*/
